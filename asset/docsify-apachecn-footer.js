@@ -3,7 +3,7 @@
         '<hr/>', 
         '<div align="center">', 
         '  <p><a href="http://www.apachecn.org/" target="_blank"><font face="KaiTi" size="6" color="red">我们一直在努力</font></a><p>', 
-        '  <p><a href="https://github.com/apachecn/sicp-js-zh/" target="_blank">apachecn/sicp-js-zh</a></p>', 
+        '  <p><a href="https://github.com/nyaasu66/sicp-js-zh/" target="_blank">apachecn/sicp-js-zh</a></p>', 
         '  <p><iframe align="middle" src="https://ghbtns.com/github-btn.html?user=apachecn&repo=sicp-js-zh&type=watch&count=true&v=2" frameborder="0" scrolling="0" width="100px" height="25px"></iframe>', 
         '  <iframe align="middle" src="https://ghbtns.com/github-btn.html?user=apachecn&repo=sicp-js-zh&type=star&count=true" frameborder="0" scrolling="0" width="100px" height="25px"></iframe>', 
         '  <iframe align="middle" src="https://ghbtns.com/github-btn.html?user=apachecn&repo=sicp-js-zh&type=fork&count=true" frameborder="0" scrolling="0" width="100px" height="25px"></iframe>', 

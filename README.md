@@ -2,16 +2,14 @@
 
 ![](cover.jpg)
 
-> 原文：[https://sicp.comp.nus.edu.sg/index.html](https://sicp.comp.nus.edu.sg/index.html)
+> 原文：[https://sourceacademy.org/sicpjs/1](https://sourceacademy.org/sicpjs/1)
 > 
 > 协议：[CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 > 
 > 如果你交给某人一个程序，你将折磨他一整天；如果你教某人如何编写程序，你将折磨他一辈子。——David Leinweber
 
-* [在线阅读](https://sicp-js.apachecn.org)
-* [在线阅读（Gitee）](https://apachecn.gitee.io/sicp-js-zh/)
-* [ApacheCN 面试求职交流群 724187166](https://jq.qq.com/?_wv=1027&k=54ujcL3)
-* [ApacheCN 学习资源](http://www.apachecn.org/)
+* [在线阅读](https://sicp-js-zh-preview.vercel.app/#/)
+
 
 ## 贡献指南
 

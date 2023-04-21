@@ -2,7 +2,7 @@
 +   [SICP 前言](docs/01.md)
 +   [SICP JS 前言](docs/02.md)
 +   [SICP 序言](docs/03.md)
-+   [来自 SICP，1996年第二版的致谢](docs_preview/04.md)
++   [来自 SICP，1996年第二版的致谢](docs/04.md)
 +   [1具有功能的建筑抽象](docs_preview/2.md)
 +   [1.1编程要素](docs_preview/3.md)
 +   [1.1.1表达式](docs_preview/4.md)
